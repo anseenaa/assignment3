@@ -1,0 +1,18 @@
+/* Author:Anseena A Sharafudeen */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first {
+    min-height: 50vh;
+}
+.second {
+    min-height: 60vh;
+}
+.third {
+    min-height: 50vh;
+}
+.third1 {
+    min-height: 60vh;
+}
